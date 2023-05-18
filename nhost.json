@@ -1,8 +1,0 @@
-{
-  "base_url": "<YOUR_NHOST_BACKEND_URL>",
-  "refresh_interval_time": 60,
-  "disable_refresh_timeout": false,
-  "websocket_endpoint": "<YOUR_NHOST_BACKEND_URL>/v1/graphql",
-  "backend_endpoint": "<YOUR_NHOST_BACKEND_URL>/v1/graphql",
-  "cdn_url": "<YOUR_NHOST_BACKEND_URL>/storage"
-}
