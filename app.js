@@ -20,7 +20,7 @@ incrementBtn.addEventListener('click', async () => {
 
   // Store the updated number in the database
   try {
-    await db.from('numbers').update({ id: 1, value: currentNumber });
+    await db.from('numbers').upsert({ id: 1, value: currentNumber });
     console.log('Number updated in the database');
   } catch (error) {
     console.error('Failed to update number in the database', error);

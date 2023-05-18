@@ -2,7 +2,7 @@
   "base_url": "https://enchanting-salamander-e76a61.netlify.app",
   "refresh_interval_time": 60,
   "disable_refresh_timeout": false,
-  "websocket_endpoint": "https://enchanting-salamander-e76a61.netlify.app/v1/graphql",
+  "websocket_endpoint": "wss://enchanting-salamander-e76a61.netlify.app/v1/graphql",
   "backend_endpoint": "https://enchanting-salamander-e76a61.netlify.app/v1/graphql",
   "cdn_url": "https://enchanting-salamander-e76a61.netlify.app/storage"
 }
