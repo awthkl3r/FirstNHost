@@ -1,8 +1,8 @@
 {
-  "base_url": "http://localhost:3000",
+  "base_url": "http://localhost:5000",
   "refresh_interval_time": 60,
   "disable_refresh_timeout": false,
-  "websocket_endpoint": "http://localhost:3000/v1/graphql",
-  "backend_endpoint": "<http://localhost:3000/v1/graphql",
-  "cdn_url": "http://localhost:3000/storage"
+  "websocket_endpoint": "http://localhost:5000/v1/graphql",
+  "backend_endpoint": "<http://localhost:5000/v1/graphql",
+  "cdn_url": "http://localhost:5000/storage"
 }
