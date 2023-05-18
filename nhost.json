@@ -1,8 +1,8 @@
 {
-  "base_url": "http://localhost:5000",
+  "base_url": "https://app.netlify.com/sites/enchanting-salamander-e76a61/settings/general",
   "refresh_interval_time": 60,
   "disable_refresh_timeout": false,
-  "websocket_endpoint": "http://localhost:5000/v1/graphql",
-  "backend_endpoint": "<http://localhost:5000/v1/graphql",
+  "websocket_endpoint": "https://app.netlify.com/sites/enchanting-salamander-e76a61/settings/general/v1/graphql",
+  "backend_endpoint": "https://app.netlify.com/sites/enchanting-salamander-e76a61/settings/general/v1/graphql",
   "cdn_url": "http://localhost:5000/storage"
 }
