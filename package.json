@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@nhost/nhost-js": "^2.2.4",
+    "nhost-js-sdk": "^3.1.0"
+  }
+}
